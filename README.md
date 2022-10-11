@@ -1,4 +1,4 @@
-#Game Zone - A Game Arcade on Python3
+# GameZone - A Game Arcade on Python
 
 This was a project that I made during grade 12. I used Python3. Specifically, this projects employs concepts like functions, arrays, strings, file management, modules, packages, errors and exceptions. I also created a version with a MySQL database linked to the program to save user login credentials and scores. In this version, I used files to save data.
 
