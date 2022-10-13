@@ -1,6 +1,6 @@
 # GameZone - A Game Arcade on Python
 
-This was a project that I made during grade 12 (3 years back but I added it to github recently while switching laptops :)). I used Python3. Specifically, this projects employs concepts like functions, arrays, strings, file management, modules, packages, errors and exceptions. I also created a version with a MySQL database linked to the program to save user login credentials and scores. In this version, I used files to save data.
+This was a project that I made during grade 12 (2 years back but I added it to github recently while switching laptops :)). I used Python3. Specifically, this projects employs concepts like functions, arrays, strings, file management, modules, packages, errors and exceptions. I also created a version with a MySQL database linked to the program to save user login credentials and scores. In this version, I used files to save data.
 
 The arcade, named Game Zone, has 5 games:
 1. Tic Tac Toe
